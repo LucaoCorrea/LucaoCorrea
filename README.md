@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Corrêa</h1>
-<h3 align="center">Sou um desenvolvedor brasileiro</h3>
+<h3 align="center">Sou um desenvolvedor FullStack !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=will9191&label=Profile%20views&color=0e75b6&style=flat" alt="LucaoCorrea" /> </p>
 
