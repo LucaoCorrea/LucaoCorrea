@@ -1,38 +1,45 @@
-<h2 align="left">Hi 🖥️🤖! My name is Lucas Corrêa and I'm a BackEnd Developer, from Brazil 🇧🇷</h2>
+## ♟️ Welcome to my GitHub Profile!
 
-###
+I'm a dedicated software developer passionate about building high-quality applications. Just like in chess, where every move requires strategy and foresight, I approach software development with careful planning and a mindset focused on innovation and precision.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucaoCorrea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucaoCorrea&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🐺 Technologies I Love
 
-###
+**Frontend:** Angular, JavaScript, TypeScript, React, Tailwind CSS, SCSS, MAUI, Windows Forms.
+**Backend:** C#, ASP.NET  , Java, Spring Boot.
+**Databases:** SQL Server, MySQL, PostgreSQL, MongoDB.
+**DevOps:** Docker, Jenkins, Git.
+**Cloud:** AWS, MagaluCloud.
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"  />
+### 🐕 Always Learning
 
-###
+I'm always eager to grow and expand my knowledge. There’s no such thing as too much learning, and I’m constantly exploring new tools, frameworks, and best practices.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdudKjF89qrI5ZFqkztCzLcOmxb-8BClCkXUEX1Jdaog&s" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-      <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postsql logo"  />
-</div>
+### 🦊 About Me
 
-###
+To me, coding is more than writing lines of code — it’s about solving problems and crafting intuitive, user-friendly experiences. My background in fitness has instilled a strong work ethic and discipline, which I bring to every development challenge.
+
+### 🐯 My Work Philosophy
+
+-   **Quality Over Quantity:** I focus on writing clean, efficient, and maintainable code.
+    
+-   **Collaboration:** I enjoy working with others and believe that teamwork leads to the best ideas.
+    
+-   **Continuous Improvement:** I stay updated with the latest trends and continuously sharpen my skills.
+    
+
+### 🕊️ Let’s Connect
+
+I'm always open to new opportunities, collaborations, and great conversations! You can find me here:
+
+-   [LinkedIn](https://www.linkedin.com/in/lucas-corr%C3%AAa-222422256/)
+    
+-   [Email](lucascorrea1505@gmail.com) 
+    
+
+### 🐵 My Goals
+
+My mission is to create impactful software solutions that make users' lives easier and help businesses thrive. Whether through innovative development or effective teamwork, I’m here to make a difference and keep evolving.
+
+Let’s connect and build something amazing together!
+
+----------
